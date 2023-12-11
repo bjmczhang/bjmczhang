@@ -4,7 +4,7 @@ Hi 👋 My name is Benjamin
 Frontend Developer
 ------------------
 
- I have always been fascinated by coding, and am looking for a job in the industry.
+ I have always been fascinated by coding.
 
 * 🌍  I'm based in Melbourne
 * 🖥️  See my portfolio at [bjmzhang.vercel.app](https://bjmzhang.vercel.app)
